@@ -7,8 +7,7 @@ I'm Josh and I'm a UX Designer/Developer
 ---------------------------------------
 
 <br>
--🔭 I’m currently learning Web Development at DCI |Digital Career Institute| Graduating in April 2022.
--🌱 Intensive studies of HTML5, CSS3, bootstrap, JavaScript, React, Express.js, & MongoDB/mongoose.
+-🔭 Currently designing!
 <br>
 
 ---------------------------------------
